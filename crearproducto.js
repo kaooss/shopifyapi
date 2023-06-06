@@ -14,15 +14,15 @@ let createproduct = {
     },
     body: JSON.stringify({
         "product":{
-            "title": "Producto creado desde API",
-            "body_html": "Descripción de producto creado por API",
-            "vendor": "Mejorando",
-            "product_type": "Decoración",
+            "title": "Segundo Producto creado desde API",
+            "body_html": "Descripción de segundo producto creado por API",
+            "vendor": "Mejorando tu Web",
+            "product_type": "Tecnología",
             "variants":[
                 {
-                   "price":"25000",
-                   "sku":"567678900",
-                   "inventory_quantity":8,
+                   "price":"28790",
+                   "sku":"567679078",
+                   "inventory_quantity":12,
                   
                 }
              ]
