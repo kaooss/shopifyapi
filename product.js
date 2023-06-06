@@ -5,9 +5,9 @@ const app = express();
 
 app.use(cors());
 
-let apikey = 'd16aff146022d4953781142be217a7d1'
-let token = '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'
-let endpoint = 'products'
+let apikey = 'd16aff146022d4953781142be217a7d1';
+let token = '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';
+let endpoint = 'products';
 
 let options = {
   'method': 'GET',
