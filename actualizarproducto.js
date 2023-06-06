@@ -16,7 +16,7 @@ let updateproducto = {
     body: JSON.stringify({
         "product":{
             "id": "8055397843168",
-            "title": "Segundo Producto creado desde API y actualizado",
+            "title": "Segundo Producto creado desde API y actualizado nuevamente",
             "tags": "etiqueta1, servidores, hosting, web",
         }
     })
