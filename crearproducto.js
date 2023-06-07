@@ -14,9 +14,9 @@ let createproduct = {
     },
     body: JSON.stringify({
         "product":{
-            "title": "Segundo Producto creado desde API",
+            "title": "Segundo Producto creado desde API con los cabros",
             "body_html": "Descripción de segundo producto creado por API",
-            "vendor": "Mejorando tu Web",
+            "vendor": "Mejorando tu Web new",
             "product_type": "Tecnología",
             "variants":[
                 {
